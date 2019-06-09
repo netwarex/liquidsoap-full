@@ -1,7 +1,8 @@
 [submodule "liquidsoap"]
 	path = liquidsoap
-	url = git://github.com/savonet/liquidsoap.git
+	url = git://github.com/netwarex/liquidsoap.git
         ignore = dirty
+        branch = hlsfix
 [submodule "ocaml-cry"]
 	path = ocaml-cry
 	url = git://github.com/savonet/ocaml-cry.git
